@@ -91,3 +91,9 @@ footer {
     padding: 25px;
     margin-top: 40px;
 }
+section img {
+    width: 100%;
+    max-height: 350px;
+    object-fit: cover;
+    border-radius: 10px;
+}
